@@ -20,3 +20,11 @@
 - 🥷I’m currently working on improving my techskill
 - 🥷I’m currently learning TypeScript
 - 👍Ask me about anything, I am happy to help
+
+
+**Current Situation:**
+
+As a frontend engineer, I am currently a freelancer engineer.  <br/>
+My expertise lies in using the Vue.js framework, and I enjoy simplifying complex concepts.   <br/>
+I strive to improve myself through sharing knowledge and persistence, with the ultimate goal of becoming exceptional and progressing towards mastery.  <br/>
+I welcome various forms of communication and exchange of ideas.
