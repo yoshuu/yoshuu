@@ -6,7 +6,7 @@
 
 <a href="https://github.com/tinygeeker">
   <div align="right" >
-    <img src="https://github-readme-stats.vercel.app/api?username=yoshuu&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yoshuu&show_icons=true" alt="logo" height="200" align="right" style="margin: 5px; margin-bottom: 20px;" />
   </div>
 </a>
 
@@ -14,7 +14,9 @@
 
 * 🙏 Read more about my [Blog](https://yoshuu.github.io/)
 * 🤝 Follow me on [FB](https://www.facebook.com/profile.php?id=100010997769542), [IG](https://www.instagram.com/appcs342/) 
+* 👍How to reach me: vicwork327@gmail.com
+
 **About Me!**
-- 🥷I’m currently working on improving my techskill;
-- 🥷I’m currently learning TypeScript; 
-- 👍Ask me about anything, I am happy to help;
+- 🥷I’m currently working on improving my techskill
+- 🥷I’m currently learning TypeScript
+- 👍Ask me about anything, I am happy to help
