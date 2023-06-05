@@ -12,6 +12,9 @@
 
 <!-- ======================================= -->
 
-* 🥷 Read more about my [Blog](https://yoshuu.github.io/)
+* 🙏 Read more about my [Blog](https://yoshuu.github.io/)
 * 🤝 Follow me on [FB](https://www.facebook.com/profile.php?id=100010997769542), [IG](https://www.instagram.com/appcs342/) 
-
+**About Me!**
+- 🥷I’m currently working on improving my techskill;
+- 🥷I’m currently learning TypeScript; 
+- 👍Ask me about anything, I am happy to help;
